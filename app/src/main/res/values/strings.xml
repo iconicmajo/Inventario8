@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Nombre</string>
+    <string name="codigo">Codigo</string>
+    <string name="editText2_text">nombre</string>
+    <string name="editText1_text">Codigo</string>
+</resources>
